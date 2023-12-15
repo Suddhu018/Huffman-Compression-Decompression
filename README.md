@@ -73,8 +73,3 @@ class HuffmanTreeNode{
 7. Now use this code table to encode the given text file. By encoding it the size of the text file in significantly reduced as number of bits require by each character is reduced.
 
 8. Similarly we can use this code table to again decode (decompress)the file.
-
-   Refrences:
-   1)https://home.cse.ust.hk/faculty/golin/COMP271Sp03/Notes/MyL17.pdf
-   2)https://youtu.be/uDS8AkTAcIU?si=eh1hp0Zt_5rZXP1q
-   3)https://opendsa-server.cs.vt.edu/ODSA/Books/CS3/html/Huffman.html
