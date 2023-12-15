@@ -5,6 +5,7 @@ Due to this overall size of the file decreases.
 This compression algorithm 100% lossless compression.
 
 
+Note:- To test the data/code run driver_code.cpp. Every other files are interlinked so just need to run driver code cpp file
 
 .Language Used- C++
 
